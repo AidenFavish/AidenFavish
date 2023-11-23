@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AidenFavish
-- 👀 I’m starting to get into reinforcement learning
-- 🌱 I’m currently learning swift, python, and java
+- 👀 I’m learning ARM Assembly and C/C++
+- 🌱 I’m familiar with Swift, Java, and Python
 - 💞️ I’m looking to collaborate on my app and machine learning projects!
 - 📫 How to reach me email me at aidenfavish@gmail.com
 
