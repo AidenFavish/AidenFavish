@@ -19,9 +19,7 @@
 
 * 💻 Always looking for a new project!
 
-* 🥵 Too many private repos
-
-* 😋 Love working in Python, Java, Swift, and C
+* 😋 Love working in Python and C
 
 <br>
 Stats
