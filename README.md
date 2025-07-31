@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=100&color=00A7F7&vCenter=true&multiline=true&random=false&width=700&height=100&lines=Aiden+Favish;UCI+Student+%7C+Computer+Science+and+Engineering;Low+Level+Programming+%7C+Bots+%7C+ML" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=100&color=00A7F7&vCenter=true&multiline=true&random=false&width=700&height=100&lines=Aiden+Favish;UCI+Student+%7C+Computer+Science+and+Engineering;Trajectory+Optimization+%7C+Drones+%7C+Control+Systems" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -9,7 +9,7 @@
 
 <br/>
 
-<a href="https://github.com/drkostas">
+<a href="https://github.com/aidenfavish">
     <img src="https://github-stats-alpha.vercel.app/api?username=aidenfavish&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
@@ -19,7 +19,9 @@
 
 * 💻 Always looking for a new project!
 
-* 😋 Love working in Python and C
+* 😋 Love learning something new.
+
+* 🤖 Robotics and drones all day any day.
 
 <br>
 Stats
