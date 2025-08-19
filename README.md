@@ -21,7 +21,7 @@
 
 * 😋 Love learning something new.
 
-* 🤖 Robotics and drones all day every day.
+* 🤖 Dreaming of robotics and drones all day every day.
 
 <br>
 Stats
