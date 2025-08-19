@@ -21,7 +21,7 @@
 
 * 😋 Love learning something new.
 
-* 🤖 Robotics and drones all day any day.
+* 🤖 Robotics and drones all day every day.
 
 <br>
 Stats
